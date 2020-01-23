@@ -22,3 +22,6 @@ Run through the commands to make a commit history
 gid add .
 git commit -m "initial commit"
 ```
+
+## Step 5
+Commands to connect to remote repository
