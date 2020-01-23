@@ -3,15 +3,15 @@ This tutorial will walk us through the workflow of making a commit
 
 ## Step 1
 Initialize the repository by running the command below
-'''git
+```git
 git init
-'''
+```
 
 ## Step 2
 Configure your username and email using the commands below
-'''git
+```git
 git config --global user.name "[your username]"
-'''
+```
 
 ## Step 3
 Add files or alter current project
